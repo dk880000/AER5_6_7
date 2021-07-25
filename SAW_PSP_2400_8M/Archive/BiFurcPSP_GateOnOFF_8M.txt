@@ -1,0 +1,3 @@
+Doesn't work.
+The Magnitude of RF specter is 10 dB less than in 5may2020 version. 
+there is too much speed of tune. Tune should be not faster then 5 uS on 100 MHz  
